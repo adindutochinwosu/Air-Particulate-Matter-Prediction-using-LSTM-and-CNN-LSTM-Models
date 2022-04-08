@@ -1,2 +1,2 @@
-# A-comparison-of-Long-Short-Term-Memory-LSTM-and-Convolutional-Neural-Network-CNN-LSTM-models-for-
+# A-comparison-of-Long-Short-Term-Memory-LSTM-and-Convolutional-Neural-Network-CNN-LSTM-models-for-Air-Particulate-Matter-Prediction
 The objective of this project was to develop a neural network model that combines Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) architectures to predict the amount of PM_2.5 concentrations in the air. The eventual, tuned model was applied to hourly air quality data from 12 air quality monitoring sites in Beijing, China, and predicted PM_2.5 concentrations with about 96% accuracy.
